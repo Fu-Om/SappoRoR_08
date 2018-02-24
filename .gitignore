@@ -3,8 +3,6 @@ packrat/src/*
 .R*
 .Rproj.user/*
 *.pdf
-*.html
 SapporoR.*
-main.Rmd
 main_*/
 
